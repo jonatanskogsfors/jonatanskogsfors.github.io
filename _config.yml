@@ -10,8 +10,7 @@ url: "" # the base hostname & protocol for your site
 owner: 
   - name: Jenni Skogsfors
     address:
-    - line: Linköping
-	  # Feel free to add more lines here 
+    - line: Linköping # Feel free to add more lines here 
     email: jenni@skogsfors.net
     telephone: 073-975 98 87
     facebook_username:
@@ -19,8 +18,7 @@ owner:
     github_username:
   - name: Jonatan Skogsfors
     address:
-    - line: Linköping
-	  # Feel free to add more lines here 
+    - line: Linköping # Feel free to add more lines here 
     email: jonatan@skogsfors.net
     telephone: 073-975 98 87
     facebook_username:
