@@ -7,14 +7,15 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
 # User setting
-owner:
+owner: Jenni & Jonatan Skogsfors
 email:
+  - line: jonatan@skogsfors.net
+  - line: jenni@skogsfors.net
 facebook_username:
 twitter_username:
 github_username:
 address:
-  - line:
-  - line:
+  - line: Linköping
   # Feel free to add more lines here 
 telephone:
 copyright:
