@@ -7,18 +7,26 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
 # User setting
-owner: Jenni & Jonatan Skogsfors
-email:
-  - jenni@skogsfors.net
-  - jonatan@skogsfors.net
-facebook_username:
-twitter_username:
-github_username:
-address:
-  - line: Linköping
-  # Feel free to add more lines here 
-telephone:
-copyright:
+owner: 
+  - name: Jenni Skogsfors
+    address:
+    - line: Linköping
+	  # Feel free to add more lines here 
+    email: jenni@skogsfors.net
+    telephone: 073-975 98 87
+    facebook_username:
+    twitter_username:
+    github_username:
+  - name: Jonatan Skogsfors
+    address:
+    - line: Linköping
+	  # Feel free to add more lines here 
+    email: jonatan@skogsfors.net
+    telephone: 073-975 98 87
+    facebook_username:
+    twitter_username:
+    github_username:
+copyright: 2022
 
 # API settings
 google_api_key:
