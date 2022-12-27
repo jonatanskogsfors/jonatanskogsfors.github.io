@@ -19,15 +19,21 @@
           </ul>
           <br>
           <ul class="list-inline">
+            {% if owner.facebook_username %}
             <li>
               <a href="https://facebook.com/{{ owner.facebook_username }}"><i class="fa fa-facebook fa-fw fa-3x"></i></a>
             </li>
+            {% endif %}
+            {% if owner.twitter_username %}
             <li>
               <a href="https://twitter.com/{{ owner.twitter_username }}"><i class="fa fa-twitter fa-fw fa-3x"></i></a>
             </li>
+            {% endif %}
+            {% if owner.github_username %}
             <li>
               <a href="https://github.com/{{ owner.github_username }}"><i class="fa fa-github fa-fw fa-3x"></i></a>
             </li>
+            {% endif %}
           </ul>
         </div>
         {% endfor %}
