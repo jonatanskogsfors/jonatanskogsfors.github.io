@@ -7,7 +7,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
 # User setting
-owner: 
+owners: 
   - name: Jenni Skogsfors
     address:
     - line: Linköping # Feel free to add more lines here 
@@ -24,7 +24,7 @@ owner:
     facebook_username:
     twitter_username:
     github_username:
-copyright: 2022
+copyright: Skogsfors
 
 # API settings
 google_api_key:
