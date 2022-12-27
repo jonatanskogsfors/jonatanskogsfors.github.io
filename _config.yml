@@ -9,8 +9,8 @@ url: "" # the base hostname & protocol for your site
 # User setting
 owner: Jenni & Jonatan Skogsfors
 email:
-  - line: jonatan@skogsfors.net
-  - line: jenni@skogsfors.net
+  - jenni@skogsfors.net
+  - jonatan@skogsfors.net
 facebook_username:
 twitter_username:
 github_username:
