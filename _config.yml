@@ -13,7 +13,7 @@ owners:
     - line: Linköping # Feel free to add more lines here 
     email: jenni@skogsfors.net
     telephone: 073-975 98 87
-    facebook_username:
+    facebook_username: jenniskogsforsofficial
     twitter_username:
     github_username:
   - name: Jonatan Skogsfors
@@ -23,7 +23,7 @@ owners:
     telephone: 073-975 98 87
     facebook_username:
     twitter_username:
-    github_username:
+    github_username: jonatanskogsfors
 copyright: Skogsfors
 
 # API settings
