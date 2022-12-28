@@ -6,6 +6,26 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
+services:
+  - title: Dop
+    icon: child
+    text: >
+      På dop och namngivningar välkomnar vi den lille.
+  - title: Vigsel
+    icon: heart
+    text: >
+      Vissa känslor uttrycks bäst i toner. Har ni kanske
+      er alldeles egna speciella sång?
+  - title: Begravning
+    icon: plus
+    text: >
+      Ett värdigt avsked. Vi sjunger om tacksamhet, saknad
+      och hopp.
+  - title: Kalas
+    icon: birthday-cake
+    text: >
+      Födelsedag, promovering, jubileum. Du firar, vi sjunger.
+
 # User setting
 owners: 
   - name: Jenni Skogsfors
