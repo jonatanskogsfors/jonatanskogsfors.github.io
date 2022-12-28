@@ -24,8 +24,8 @@ services:
   - title: Kalas
     icon: birthday-cake
     text: >
-      Födelsedag, promovering, jubileum. Du firar, vi sjunger.
-      Vi kan även skriva nya hyllningstexter till kända melodier.
+      Födelsedag, jubileum, promovering. Du firar, vi sjunger.
+      Kanske önskas en nyskriven hyllningstext till någon känd melodi.
 
 # User setting
 owners: 
