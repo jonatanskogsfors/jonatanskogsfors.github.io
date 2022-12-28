@@ -14,8 +14,8 @@ services:
   - title: Vigsel
     icon: heart
     text: >
-      Vissa känslor uttrycks bäst i toner. Har ni kanske
-      er alldeles egna speciella sång?
+      Vissa känslor uttrycks bäst i toner. Vi sjunger sångerna
+      som är speciella för just er.
   - title: Begravning
     icon: plus
     text: >
@@ -25,6 +25,7 @@ services:
     icon: birthday-cake
     text: >
       Födelsedag, promovering, jubileum. Du firar, vi sjunger.
+      Vi kan även skriva nya hyllningstexter till kända melodier.
 
 # User setting
 owners: 
